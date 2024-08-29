@@ -52,7 +52,7 @@
 .descrição__titulo {
     color: var(--laranja);
     font-weight: 700;
-}
+}descrição__texto
 
 .descrição__titulo-livro {
     color: var(--azul);
@@ -90,11 +90,14 @@
 .texto_da_camisa{
     font-size: 25px;
 }
+.descrição__texto2{
+    font-size: 25px;
+}
 }
 
 @media screen and (min-width:1024px) {
     .descrição__titulo{
-        font-size: 80px;
+        font-size: 45px;
     }
     .descrição__titulo-livro{
         font-size: 30px;
@@ -102,5 +105,7 @@
     .texto_da_camisa{
         font-size: 25px;
     }
-
+.descrição__texto2{
+    font-size: 25px;
+}
 }

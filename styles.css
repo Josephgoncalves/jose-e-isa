@@ -20,3 +20,13 @@ body {
 .descrição__texto{
     font-size: 16px;
 }
+.descrição__titulo-livro{
+    color: #4841aa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+    .banner__titulo{
+        font-size: 21px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
